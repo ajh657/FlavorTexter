@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Authors>ajh657</Authors>
+    <Description>Use to generate random flavor texts</Description>
+    <PackageProjectUrl>https://github.com/ajh657/FlavorTexter</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/ajh657/FlavorTexter</RepositoryUrl>
+    <PackageTags>flavor text:flavor:text generation</PackageTags>
+  </PropertyGroup>
+
+</Project>

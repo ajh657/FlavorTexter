@@ -1,2 +1,2 @@
 # FlavorTexter
-A nuget pack that can generate random flavor texts
+A nuget package that can generate random flavor texts
