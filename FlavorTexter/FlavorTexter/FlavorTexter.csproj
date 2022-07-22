@@ -10,6 +10,7 @@
     <PackageProjectUrl>https://github.com/ajh657/FlavorTexter</PackageProjectUrl>
     <RepositoryUrl>https://github.com/ajh657/FlavorTexter</RepositoryUrl>
     <PackageTags>flavor text:flavor:text generation</PackageTags>
+    <PackageVersion>$([System.DateTime]::Now.ToString(&quot;yyyy.MM.dd.HHmmss&quot;))</PackageVersion>
   </PropertyGroup>
 
 </Project>
